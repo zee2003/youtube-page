@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    height: 50px;
+}
+
+.videos {
+    display: flex;
+}
+
+iframe {
+    margin: 5px;
+}
+
+.boogie {
+    display: flex;
+    justify-content:flex-start;
+    border: 5px solid white;
+    font-size: 50px;
+    text-align: center;
+    background-color:black;
+}
+
+.crazy {
+    font-family: 'Zen Dots', cursive;
+    color: #d61313;
+}
+
+.secrets {
+    font-family: 'Dela Gothic One', cursive;
+    color:white;
+}
+
+.vroom {
+    font-family: 'Oswald', sans-serif;
+    color: #d61313;
+}
